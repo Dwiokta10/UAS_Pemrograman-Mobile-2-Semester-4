@@ -53,9 +53,9 @@ Melalui integrasi **Google Gemini API**, pengguna dapat melakukan pemindaian mak
 
 ## Alur Aplikasi (App Workflow)
 
-### 1. Splash Screen
+### 1. Splash Scren
 
-Menampilkan identitas aplikasi dan branding MamahChef AI saat aplikasi pertama kali dibuka.
+......
 
 ### 2. Dashboard (Pusat Navigasi)
 
@@ -67,6 +67,7 @@ Pengguna dapat:
 * Mengakses koleksi resep favorit
 
 ### 3. AI Scanner
+<img width="1450" height="1080" alt="8" src="https://github.com/user-attachments/assets/edcd1bbf-a55f-48e3-80ce-66a7985c924d" />
 
 Pengguna mengambil foto makanan menggunakan kamera smartphone.
 
