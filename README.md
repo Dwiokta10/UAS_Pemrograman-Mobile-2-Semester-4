@@ -105,10 +105,26 @@ Pengguna dapat menyimpan resep favorit untuk dibuka kembali di kemudian hari.
 
 <img width="1920" height="1080" alt="10" src="https://github.com/user-attachments/assets/b4218909-bbe0-498f-9dfe-b53e2f290bee" />
 
+---
+<img width="4429" height="2160" alt="IMG_20260616_105747 jpg" src="https://github.com/user-attachments/assets/a1b546b4-c358-4b8b-b63e-efc41a367112" />
 
-<img width="1920" height="1080" alt="Screenshot 2" src="MASUKKAN_SCREENSHOT_2" />
+---
 
-<img width="1920" height="1080" alt="Screenshot 3" src="MASUKKAN_SCREENSHOT_3" />
+
+<img width="4481" height="2160" alt="IMG_20260616_105922 jpg" src="https://github.com/user-attachments/assets/a2537a84-a9a1-4360-bd84-5d1908c2d059" />
+
+
+---
+
+<img width="4481" height="2160" alt="IMG_20260616_105826 jpg" src="https://github.com/user-attachments/assets/6177b240-43df-468b-9f51-e1ca5cdf4801" />
+
+---
+
+<img width="4427" height="2160" alt="IMG_20260616_105952 jpg" src="https://github.com/user-attachments/assets/dc305ec3-4c5d-4a24-8a74-ecc9dcda3d92" />
+
+---
+
+<img width="4491" height="2160" alt="IMG_20260616_110022 jpg" src="https://github.com/user-attachments/assets/91b1b4b0-d8f6-4aa1-b6cc-01238fce3771" />
 
 ---
 
