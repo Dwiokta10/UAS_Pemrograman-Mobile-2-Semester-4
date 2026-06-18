@@ -101,7 +101,7 @@ Pengguna dapat menyimpan resep favorit untuk dibuka kembali di kemudian hari.
 
 ---
 
-## Screenshot Aplikasi
+## UI/UX
 
 <img width="1920" height="1080" alt="10" src="https://github.com/user-attachments/assets/b4218909-bbe0-498f-9dfe-b53e2f290bee" />
 
