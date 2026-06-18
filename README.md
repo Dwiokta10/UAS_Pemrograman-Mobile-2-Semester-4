@@ -182,7 +182,7 @@ AI digunakan untuk membantu pengguna mengenali makanan secara otomatis hanya den
 
 Desain aplikasi MamahChef AI menggunakan pendekatan psikologi warna untuk meningkatkan kenyamanan pengguna sekaligus memperkuat identitas aplikasi kuliner modern berbasis Nusantara.
 
-### Warna Oranye
+### 🟧 Warna Oranye
 
 **Makna:**
 
@@ -198,7 +198,7 @@ Desain aplikasi MamahChef AI menggunakan pendekatan psikologi warna untuk mening
 
 ---
 
-### Warna Merah
+### 🟥 Warna Merah
 
 **Makna:**
 
@@ -214,7 +214,7 @@ Desain aplikasi MamahChef AI menggunakan pendekatan psikologi warna untuk mening
 
 ---
 
-### Warna Cokelat
+### 🟫 Warna Cokelat
 
 **Makna:**
 
@@ -230,7 +230,7 @@ Desain aplikasi MamahChef AI menggunakan pendekatan psikologi warna untuk mening
 
 ---
 
-### Warna Krem
+### 🏷️ Warna Krem
 
 **Makna:**
 
@@ -245,7 +245,7 @@ Desain aplikasi MamahChef AI menggunakan pendekatan psikologi warna untuk mening
 
 ---
 
-### Ornamen Emas
+### 🟨 Ornamen Emas
 
 **Makna:**
 
@@ -260,7 +260,7 @@ Desain aplikasi MamahChef AI menggunakan pendekatan psikologi warna untuk mening
 
 ---
 
-### Maskot Mamah Chef
+### 👩‍🍳 Maskot Mamah Chef
 
 **Makna:**
 
@@ -271,17 +271,6 @@ Desain aplikasi MamahChef AI menggunakan pendekatan psikologi warna untuk mening
 
 * Membangun emotional connection dengan pengguna
 * Memberikan kesan akrab dan nyaman
-
----
-
-## Teknologi yang Digunakan
-
-* Java
-* Android Studio
-* XML Layout
-* Google Gemini API
-* Git & GitHub
-* ClickUp Project Management
 
 ---
 
