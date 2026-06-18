@@ -11,9 +11,10 @@
 | YouTube        | [Tonton Demo]()     |
 | ClickUp        | [Lihat Project](https://app.clickup.com/90181792767/v/li/901812544605)   |
 
-<h1 align="center">MamahChef AI</h1>
+<h1 align="center">MamahChef</h1>
 
-<img width="1080" height="787" alt="Banner MamahChef AI" src="MASUKKAN_BANNER_TERBARU" />
+<img width="1920" height="1080" alt="UAS Pemrograman mobile 2 Sem 4" src="https://github.com/user-attachments/assets/33e85fd9-d96b-4e99-baee-08891ed747f8" />
+
 
 <p align="center">
 Cita Rasa Nusantara, Sentuhan Hangat Resep Mamah Hebat
@@ -29,35 +30,36 @@ Sebagai mahasiswa Program Studi Teknik Informatika, saya mendapatkan tugas untuk
 
 Inspirasi utama aplikasi ini berasal dari sosok seorang ibu yang selalu mampu menyajikan masakan lezat dengan bahan-bahan sederhana yang tersedia di rumah. Bagi banyak orang, masakan ibu bukan hanya sekadar makanan, melainkan juga simbol kehangatan, kasih sayang, dan kebersamaan dalam keluarga. Dari pengalaman tersebut lahirlah ide untuk mengembangkan aplikasi yang dapat membantu pengguna menemukan resep masakan dengan lebih mudah sekaligus memperkenalkan kekayaan kuliner Indonesia.
 
-Aplikasi ini diberi nama **MamahChef**, yang menggambarkan sosok ibu sebagai sumber inspirasi utama dalam memasak. Pada tahap awal pengembangan, aplikasi difokuskan sebagai media informasi resep makanan khas Nusantara yang berasal dari berbagai wilayah Indonesia, seperti Sumatera, Jawa, Kalimantan, Sulawesi, dan Papua.
+Aplikasi ini diberi nama MamahChef, yang menggambarkan sosok ibu sebagai sumber inspirasi utama dalam memasak. Pada tahap awal pengembangan, aplikasi difokuskan sebagai media informasi resep makanan khas Nusantara yang berasal dari berbagai wilayah Indonesia, seperti Sumatera, Jawa, Kalimantan, Sulawesi, dan Papua.
 
-Seiring berjalannya proses pengembangan, kebutuhan pengguna terhadap teknologi yang lebih cerdas semakin meningkat. Oleh karena itu, pada tahap Ujian Akhir Semester (UAS) Pemrograman Mobile 2, aplikasi MamahChef dikembangkan lebih lanjut dengan mengimplementasikan teknologi **Artificial Intelligence (AI)** yang terintegrasi dengan **Google Gemini API**.
+Seiring berjalannya proses pengembangan, kebutuhan pengguna terhadap teknologi yang lebih cerdas semakin meningkat. Oleh karena itu, pada tahap Ujian Akhir Semester (UAS) Pemrograman Mobile 2, aplikasi MamahChef dikembangkan lebih lanjut dengan mengimplementasikan teknologi Artificial Intelligence (AI) yang terintegrasi dengan Google Gemini API.
 
 Melalui teknologi tersebut, pengguna dapat melakukan pemindaian makanan menggunakan kamera smartphone. Sistem kemudian akan menganalisis gambar yang diperoleh, mengenali jenis makanan yang terdeteksi, menampilkan tingkat akurasi hasil identifikasi, serta memberikan resep yang sesuai secara otomatis. Dengan adanya fitur ini, proses pencarian resep menjadi lebih cepat, praktis, dan interaktif.
 
 Pengembangan MamahChef tidak hanya bertujuan untuk menerapkan teknologi mobile dan kecerdasan buatan, tetapi juga menjadi salah satu bentuk kontribusi dalam memperkenalkan dan melestarikan kekayaan kuliner Nusantara kepada masyarakat luas melalui pemanfaatan teknologi modern.
 
-Dengan hadirnya fitur Artificial Intelligence, MamahChef tidak lagi sekadar menjadi aplikasi resep digital, melainkan berkembang menjadi sebuah **Smart Cooking Assistant** yang mampu membantu pengguna mengenali makanan, menemukan resep yang sesuai, serta memberikan pengalaman memasak yang lebih mudah dan menyenangkan.
+Dengan hadirnya fitur Artificial Intelligence, MamahChef tidak lagi sekadar menjadi aplikasi resep digital, melainkan berkembang menjadi sebuah Smart Cooking Assistant yang mampu membantu pengguna mengenali makanan, menemukan resep yang sesuai, serta memberikan pengalaman memasak yang lebih mudah dan menyenangkan.
 
 ---
 
 ## Gambaran Umum Aplikasi
 
-**MamahChef** merupakan aplikasi Android yang dirancang untuk melestarikan dan memperkenalkan kekayaan kuliner Nusantara melalui pendekatan teknologi modern.
+MamahChef merupakan aplikasi Android yang dirancang untuk melestarikan dan memperkenalkan kekayaan kuliner Nusantara melalui pendekatan teknologi modern.
 
 Aplikasi ini menggabungkan konsep buku resep digital dengan teknologi Artificial Intelligence sehingga pengguna dapat menemukan resep secara lebih cepat, mudah, dan interaktif.
 
-Melalui integrasi **Google Gemini API**, pengguna dapat melakukan pemindaian makanan menggunakan kamera smartphone. Sistem kemudian akan melakukan analisis gambar, mengenali jenis makanan yang terdeteksi, menampilkan tingkat akurasi identifikasi, serta memberikan resep yang sesuai secara otomatis.
+Melalui integrasi Google Gemini API, pengguna dapat melakukan pemindaian makanan menggunakan kamera smartphone. Sistem kemudian akan melakukan analisis gambar, mengenali jenis makanan yang terdeteksi, menampilkan tingkat akurasi identifikasi, serta memberikan resep yang sesuai secara otomatis.
 
 ---
 
 ## Alur Aplikasi (App Workflow)
 
 ### 1. Splash Scren
+<img width="1920" height="1080" alt="16" src="https://github.com/user-attachments/assets/4038c146-ec0b-45c7-92d2-3a17f572d071" />
 
-......
 
 ### 2. Dashboard (Pusat Navigasi)
+<img width="1920" height="1080" alt="17" src="https://github.com/user-attachments/assets/e7840f2a-ebd1-4541-a100-ddfd03770e7a" />
 
 Pengguna dapat:
 
@@ -76,6 +78,7 @@ Pengguna mengambil foto makanan menggunakan kamera smartphone.
 Google Gemini API melakukan proses analisis gambar dan mengenali makanan yang terdeteksi.
 
 ### 5. Validasi Hasil
+<img width="1920" height="1080" alt="9" src="https://github.com/user-attachments/assets/e834c307-1a62-4c96-8297-85f9d9b195c1" />
 
 Menampilkan:
 
@@ -100,7 +103,8 @@ Pengguna dapat menyimpan resep favorit untuk dibuka kembali di kemudian hari.
 
 ## Screenshot Aplikasi
 
-<img width="1920" height="1080" alt="Screenshot 1" src="MASUKKAN_SCREENSHOT_1" />
+<img width="1920" height="1080" alt="10" src="https://github.com/user-attachments/assets/b4218909-bbe0-498f-9dfe-b53e2f290bee" />
+
 
 <img width="1920" height="1080" alt="Screenshot 2" src="MASUKKAN_SCREENSHOT_2" />
 
@@ -157,27 +161,6 @@ AI digunakan untuk membantu pengguna mengenali makanan secara otomatis hanya den
 
 ---
 
-## Analisis Tampilan (UI Review)
-
-### 1. Visual & Branding
-
-* Maskot koki berhijab memberikan kesan ramah dan dekat dengan pengguna.
-* Ornamen emas memberikan nuansa elegan dan premium.
-* Identitas visual memperkuat konsep masakan rumahan Nusantara.
-
-### 2. Fitur AI
-
-* AI Scanner menjadi fitur utama aplikasi.
-* Memberikan pengalaman interaktif dalam menemukan resep.
-* Menampilkan hasil deteksi makanan secara otomatis.
-
-### 3. Struktur Resep
-
-* Dipisahkan antara bahan utama dan bumbu halus.
-* Informasi resep tersusun rapi dan mudah dibaca.
-* Memudahkan pengguna saat mengikuti proses memasak.
-
----
 
 ## Filosofi Warna & Desain (UI/UX)
 
@@ -292,32 +275,6 @@ Pada tahap UAS, seluruh fitur yang telah direncanakan berhasil direalisasikan da
 
 ### Fitur yang Berhasil Diimplementasikan
 
-✅ Splash Screen
-
-✅ Dashboard Utama
-
-✅ AI Scanner
-
-✅ Integrasi Google Gemini API
-
-✅ Deteksi Makanan Otomatis
-
-✅ Menampilkan Tingkat Akurasi
-
-✅ Kategori Berdasarkan Pulau
-
-✅ Detail Resep Lengkap
-
-✅ Simpan ke Koleksi Favorit
-
-✅ Pencarian Resep Manual
-
-✅ User Interface Modern
-
----
-
-## Pengujian Sistem
-
 | Komponen Sistem        | Hasil      |
 | ---------------------- | ---------- |
 | Splash Screen          | ✅ Berhasil |
@@ -341,7 +298,7 @@ Seluruh fitur utama berhasil diimplementasikan sesuai perencanaan dan dapat digu
 
 ## SCRUM (ClickUp)
 
-Metode pengembangan yang digunakan adalah **Scrum** dengan bantuan platform ClickUp untuk mengelola seluruh tahapan proyek.
+Metode pengembangan yang digunakan adalah Scrum dengan bantuan platform ClickUp untuk mengelola seluruh tahapan proyek.
 
 ### Tahapan Scrum
 
@@ -352,13 +309,10 @@ Metode pengembangan yang digunakan adalah **Scrum** dengan bantuan platform Clic
 
 ### Dokumentasi ClickUp
 
-<img width="1497" height="777" alt="ClickUp 1" src="MASUKKAN_CLICKUP_1" />
+<img width="1920" height="1080" alt="12" src="https://github.com/user-attachments/assets/7e870f50-7525-4af3-9a4e-57fa4a5ff733" />
 
-<img width="1920" height="1080" alt="ClickUp 2" src="MASUKKAN_CLICKUP_2" />
+<img width="1920" height="1080" alt="13" src="https://github.com/user-attachments/assets/ff48f548-f529-4f2a-ad26-e4881d03d3ee" />
 
-<img width="1920" height="1080" alt="ClickUp 3" src="MASUKKAN_CLICKUP_3" />
-
-<img width="1920" height="1080" alt="ClickUp 4" src="MASUKKAN_CLICKUP_4" />
 
 ---
 
