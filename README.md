@@ -8,7 +8,7 @@
 | Universitas    | Universitas Pelita Bangsa            |
 | Mata Kuliah    | Pemrograman Mobile 2                 |
 | Dosen Pengampu | Donny Maulana, S.Kom., M.M.S.I.      |
-| YouTube        | [Tonton Demo](https://github.com/Dwiokta10/UAS_Pemrograman-Mobile-2-Semester-4.git)     |
+| YouTube        | [Tonton Demo](https://youtu.be/p9Tx3N7wzl0?si=vsK5lz2KrjZvPZ87)     |
 | ClickUp        | [Lihat Project](https://app.clickup.com/90181792767/v/li/901812544605)   |
 
 <h1 align="center">MamahChef</h1>
